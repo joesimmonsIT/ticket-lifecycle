@@ -343,8 +343,8 @@ Log out of osTicket. <br /> <br />
 <img src="https://i.imgur.com/1Rh6I8J.png"/>
 </p>
 <p>
-Log Into osTicket with a different Agent's credentials, for this tutorial we will use John Doe.
-Select "Log In".
+Log Into osTicket with a different Agent's credentials, for this tutorial we will use "John Doe". <br /> <br />
+Select "Log In". <br /> <br />
 </p>
 <br />
 
