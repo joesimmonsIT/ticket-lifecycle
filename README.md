@@ -233,7 +233,9 @@ Select "Post Reply". <br /> <br />
 <img src="https://i.imgur.com/L7yCprl.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go back to the same ticket and write a response to the User informing them that their support ticket will be assigned to a technician. <br /> <br />
+The technician will be reaching out to provide an update and resolution. <br /> <br />
+Select "Post Reply". <br /> <br />
 </p>
 <br />
 
