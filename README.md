@@ -285,7 +285,9 @@ Select the approriate Agent credentials and log in, for this tutorial we will us
 <img src="https://i.imgur.com/fAZWVmD.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once inside osTicket a list of all the open tickets to the Agent are present. <br /> <br />
+Select a ticket to begin troubleshooting and resolution. <br /> <br />
+For this tutorial #762693 is selected. <br /> <br />
 </p>
 <br />
 
@@ -293,7 +295,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/I90M9tB.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Observe the support ticket important details such as: priority, SLA Plan, and Help Topic.
 </p>
 <br />
 
