@@ -354,7 +354,7 @@ Select "Log In". <br /> <br />
 <p>
 Once inside osTicket a list of all the open tickets for the Agent are present. <br /> <br />
 Select a ticket to begin troubleshooting and resolution. <br /> <br />
-For this tutorial #987119 is selected. <br /> <br />
+For this tutorial #953166 is selected. <br /> <br />
 </p>
 <br />
 
@@ -372,7 +372,7 @@ Observe the support ticket important details such as: Priority, SLA Plan, and He
 <p>
 Write a response to the User and express that you are sorry for the inconvenience. <br /> <br />
 Provide a status update and inform them of the opportunity to reach out to you if any further assistance is needed. <br /> <br />
-Change Ticket Status to "Closed". <br /> <br />
+Change Ticket Status to "Resolved". <br /> <br />
 Select "Post Reply". <br /> <br />
 </p>
 <br />
@@ -381,7 +381,8 @@ Select "Post Reply". <br /> <br />
 <img src="https://i.imgur.com/PHh3hZ8.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to the next support ticket, for this tutorial #987119. <br /> <br />
+Observe the support ticket important details such as: Priority, SLA Plan, and Help Topic. <br /> <br />
 </p>
 <br />
 
