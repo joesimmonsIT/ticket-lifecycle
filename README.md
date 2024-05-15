@@ -411,7 +411,8 @@ Log out of osTicket. <br /> <br />
 <img src="https://i.imgur.com/C0XB5Vm.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Log into osTicket as the administrator. <br /> <br />
+Select "Log In". <br /> <br />
 </p>
 <br />
 
@@ -419,6 +420,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/R8f0Vyl.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Observe all of the open tickets have been closed or resolved. <br /> <br />
+The Support Team did an excellent job. <br /> <br />
+Congratulations you have completed this tutorial! <br /> <br />
 </p>
 <br />
