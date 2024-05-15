@@ -161,7 +161,7 @@ Go to osTicket and log in with your Administrator Credentials.
 <img src="https://i.imgur.com/JW0XVyf.png"/>
 </p>
 <p>
-Once insdie osTicket you will see all of the open support tickets.
+Once inside osTicket you will see all of the open support tickets.
 </p>
 <br />
 
