@@ -66,7 +66,10 @@ Select "Open a New Ticket". <br /> <br />
 <img src="https://i.imgur.com/SmPuY0Z.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Email Address: Select the desired email address, for this tutorial we will be using "Karen.Palmer@easyit.com". <br /> <br />
+Full Name: Select the desired full name, for this tutorial we will be using "Karen Palmer". <br /> <br />
+Help Topic: Select the desired Help Topic, for this tutorial we will be using "Equipment Request". <br /> <br />
+Issue Summary: Select the desired issue summary, for this tutorial we will be using "Status Update: New Laptop Computer". <br /> <br />
 </p>
 <br />
 
