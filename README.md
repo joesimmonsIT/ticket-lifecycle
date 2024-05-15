@@ -295,7 +295,7 @@ For this tutorial #762693 is selected. <br /> <br />
 <img src="https://i.imgur.com/I90M9tB.png"/>
 </p>
 <p>
-Observe the support ticket important details such as: priority, SLA Plan, and Help Topic.
+Observe the support ticket important details such as: Priority, SLA Plan, and Help Topic.
 </p>
 <br />
 
