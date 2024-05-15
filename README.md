@@ -243,7 +243,11 @@ Select "Post Reply". <br /> <br />
 <img src="https://i.imgur.com/nUaRQq8.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Select the next ticket, for this tutorial #987119. <br /> <br />
+Priority: Select the approriate priority type, for this tutorial we will select "High". <br /> <br />
+Assigned to: Select the approriate Agent, for this tutorial we will select "John Doe". <br /> <br />
+SLA Plan: Select the approriate SLA Plan, for this tutorial we will select "Sev B". <br /> <br />
+Select "Post Reply". <br /> <br />
 </p>
 <br />
 
