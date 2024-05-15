@@ -40,6 +40,7 @@ Select "Open a New Ticket". <br /> <br />
 Email Address: Select the desired email address, for this tutorial we will be using "Karen.Palmer@easyit.com". <br /> <br />
 Full Name: Select the desired full name, for this tutorial we will be using "Karen Palmer". <br /> <br />
 Help Topic: Select the desired Help Topic, for this tutorial we will be using "Business Critical". <br /> <br />
+Issue Summary: Select the desired issue summary, for this tutorial we will be using "Network Down - Immediate Response Required". <br /> <br />
 </p>
 <br />
 
@@ -47,7 +48,6 @@ Help Topic: Select the desired Help Topic, for this tutorial we will be using "B
 <img src="https://i.imgur.com/AS4sWkf.png"/>
 </p>
 <p>
-Issue Summary: Select the desired issue summary, for this tutorial we will be using "Network Down - Immediate Response Required". <br /> <br />
 Provide details describing the current situation. <br /> <br />
 Select "Create Ticket". <br /> <br />
 </p>
