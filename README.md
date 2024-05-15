@@ -354,7 +354,7 @@ Select "Log In". <br /> <br />
 <p>
 Once inside osTicket a list of all the open tickets for the Agent are present. <br /> <br />
 Select a ticket to begin troubleshooting and resolution. <br /> <br />
-For this tutorial #762693 is selected. <br /> <br />
+For this tutorial #987119 is selected. <br /> <br />
 </p>
 <br />
 
