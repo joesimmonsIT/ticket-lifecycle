@@ -177,7 +177,11 @@ Click the "up arrow" in the "Last Updated" Column to arrange the tickets in asce
 <img src="https://i.imgur.com/Fp1kOFE.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open the first ticket, for this tutorial #762693.
+Priority: Select the approriate priority type, for this tutorial we will select "Emergency". <br /> <br />
+Assigned to: Select the approriate Agent, for this tutorial we will select "Jane Doe". <br /> <br />
+SLA Plan: Select the approriate SLA Plan, for this tutorial we will select "Sev A". <br /> <br />
+Select "Post Reply". <br /> <br />
 </p>
 <br />
 
