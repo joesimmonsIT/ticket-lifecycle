@@ -362,7 +362,7 @@ For this tutorial #987119 is selected. <br /> <br />
 <img src="https://i.imgur.com/R9MGxvl.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Observe the support ticket important details such as: Priority, SLA Plan, and Help Topic.
 </p>
 <br />
 
@@ -370,7 +370,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/fgZwkpK.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Write a response to the User and express that you are sorry for the inconvenience. <br /> <br />
+Provide a status update and inform them of the opportunity to reach out to you if any further assistance is needed. <br /> <br />
+Change Ticket Status to "Closed". <br /> <br />
+Select "Post Reply". <br /> <br />
 </p>
 <br />
 
