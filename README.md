@@ -178,9 +178,9 @@ Click the "up arrow" in the "Last Updated" Column to arrange the tickets in asce
 </p>
 <p>
 Open the first ticket, for this tutorial #762693. <br /> <br />
-Priority: Select the approriate priority type, for this tutorial we will select "Emergency". <br /> <br />
-Assigned to: Select the approriate Agent, for this tutorial we will select "Jane Doe". <br /> <br />
-SLA Plan: Select the approriate SLA Plan, for this tutorial we will select "Sev A". <br /> <br />
+Priority: Select the appropriate priority type, for this tutorial we will select "Emergency". <br /> <br />
+Assigned to: Select the appropriate Agent, for this tutorial we will select "Jane Doe". <br /> <br />
+SLA Plan: Select the appropriate SLA Plan, for this tutorial we will select "Sev A". <br /> <br />
 Select "Post Reply". <br /> <br />
 </p>
 <br />
@@ -200,9 +200,9 @@ Select "Post Reply". <br /> <br />
 </p>
 <p>
 Select the next ticket, for this tutorial #953166. <br /> <br />
-Priority: Select the approriate priority type, for this tutorial we will select "Normal". <br /> <br />
-Assigned to: Select the approriate Agent, for this tutorial we will select "John Doe". <br /> <br />
-SLA Plan: Select the approriate SLA Plan, for this tutorial we will select "Sev C". <br /> <br />
+Priority: Select the appropriate priority type, for this tutorial we will select "Normal". <br /> <br />
+Assigned to: Select the appropriate Agent, for this tutorial we will select "John Doe". <br /> <br />
+SLA Plan: Select the appropriate SLA Plan, for this tutorial we will select "Sev C". <br /> <br />
 Select "Post Reply". <br /> <br />
 </p>
 <br />
@@ -222,9 +222,9 @@ Select "Post Reply". <br /> <br />
 </p>
 <p>
 Select the next ticket, for this tutorial #228925. <br /> <br />
-Priority: Select the approriate priority type, for this tutorial we will select "Normal". <br /> <br />
-Assigned to: Select the approriate Agent, for this tutorial we will select "Jane Doe". <br /> <br />
-SLA Plan: Select the approriate SLA Plan, for this tutorial we will select "Sev B". <br /> <br />
+Priority: Select the appropriate priority type, for this tutorial we will select "Normal". <br /> <br />
+Assigned to: Select the appropriate Agent, for this tutorial we will select "Jane Doe". <br /> <br />
+SLA Plan: Select the appropriate SLA Plan, for this tutorial we will select "Sev B". <br /> <br />
 Select "Post Reply". <br /> <br />
 </p>
 <br />
@@ -244,9 +244,9 @@ Select "Post Reply". <br /> <br />
 </p>
 <p>
 Select the next ticket, for this tutorial #987119. <br /> <br />
-Priority: Select the approriate priority type, for this tutorial we will select "High". <br /> <br />
-Assigned to: Select the approriate Agent, for this tutorial we will select "John Doe". <br /> <br />
-SLA Plan: Select the approriate SLA Plan, for this tutorial we will select "Sev B". <br /> <br />
+Priority: Select the appropriate priority type, for this tutorial we will select "High". <br /> <br />
+Assigned to: Select the appropriate Agent, for this tutorial we will select "John Doe". <br /> <br />
+SLA Plan: Select the appropriate SLA Plan, for this tutorial we will select "Sev B". <br /> <br />
 Select "Post Reply". <br /> <br />
 </p>
 <br />
@@ -277,7 +277,7 @@ Select "osTicket" entry and delete the support ticket. <br /> <br />
 </p>
 <p>
 Go to osTicket Login. <br /> <br />
-Select the approriate Agent credentials and log in, for this tutorial we will use "Jane Doe". <br /> <br />
+Select the appropriate Agent credentials and log in, for this tutorial we will use "Jane Doe". <br /> <br />
 </p>
 <br />
 
